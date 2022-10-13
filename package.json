@@ -1,0 +1,11 @@
+{
+  "name": "hey-req",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "lennon <qtisan@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^8.0.0",
+    "superagent-charset": "^1.2.0"
+  }
+}
